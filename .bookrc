@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Phaedrus",
-  "type": "text"
+  "type": "text",
+  "book_id": 668
 }
